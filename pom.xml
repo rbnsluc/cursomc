@@ -18,11 +18,11 @@
 	<description>Estudo de caso java para curso de Modelagem Conceitual com UML</description>
 
 	<properties>
-		<java.version>1.8</java.version>
-		<sonar.projectKey> EvertonFreita_cursomc </sonar.projectKey>
-		<sonar.organization> evertonfreitas377 </sonar.organization>
-		<sonar.host.url> https://sonarcloud.io </sonar.host.url>
-		<sonar.login> 0cbbf42081304d2755cef499619f84952df7aa7e </sonar.login>
+		<java.version>11</java.version>
+		<sonar.projectKey>cursoudemymc</sonar.projectKey>
+		<!-- <sonar.organization> evertonfreitas377 </sonar.organization> -->
+		<sonar.host.url>http://localhost:9000</sonar.host.url>
+		<sonar.login>3f986ca278f2f6633fdc6cc0eedf0a8c26cacb67</sonar.login>
 	</properties>
 
 
