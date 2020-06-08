@@ -22,7 +22,7 @@
 		<sonar.projectKey>cursoudemymc</sonar.projectKey>
 		<!-- <sonar.organization> evertonfreitas377 </sonar.organization> -->
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>66685b8b9ee871cbd8cde339d8030742e6dd37a6</sonar.login>
+		<sonar.login>840c1373aab1da44621b4308a1b4e84cefe2b3b9</sonar.login>
 	</properties>
 
 
