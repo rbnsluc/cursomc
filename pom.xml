@@ -21,8 +21,8 @@
 		<java.version>11</java.version>
 		<sonar.projectKey>cursomc</sonar.projectKey>
 		<!-- <sonar.organization> evertonfreitas377 </sonar.organization> -->
-		<sonar.host.url>http://ip172-18-0-22-bricjddim9m000fdbvv0-9000.direct.labs.play-with-docker.com </sonar.host.url>
-		<sonar.login>c341fd64f959f8f2d0acb944b3569024e269cf37</sonar.login>
+		<sonar.host.url>http://ip172-18-0-57-brid1jjoudsg00fjc2ag-9000.direct.labs.play-with-docker.com </sonar.host.url>
+		<sonar.login>b94f9b55bc1ce634b1affbd4b7a951b784550dd2</sonar.login>
 	</properties>
 
 
