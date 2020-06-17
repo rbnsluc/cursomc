@@ -21,8 +21,8 @@
 		<java.version>11</java.version>
 		<sonar.projectKey>fujioka</sonar.projectKey>
 		<!-- <sonar.organization> evertonfreitas377 </sonar.organization> -->
-		<sonar.host.url>http://ip172-18-0-50-brkluudim9m000dkb1l0-9000.direct.labs.play-with-docker.com </sonar.host.url>
-		<sonar.login>e53a883f31f57ff489d900ebc9fa1bde4f02087a</sonar.login>
+		<sonar.host.url>http://ip172-18-0-96-brl1uv2osm4g00c7j7qg-9000.direct.labs.play-with-docker.com </sonar.host.url>
+		<sonar.login>800b6a6a0bf57f2e65eca1f2d65e4d3d5a90dbf8</sonar.login>
 	</properties>
 
 
